@@ -1,0 +1,23 @@
+{
+  "repo": "altair-inspire-full",
+  "product": "Altair Inspire Full",
+  "kind": "engineering",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "cae",
+  "topics": [
+    "altair-inspire",
+    "structure-study-desk",
+    "load-case-tools",
+    "inspire-windows",
+    "motion-print-2026",
+    "how-to-install-inspire",
+    "inspire-desktop-package",
+    "mid-surface-suite",
+    "optimize-study-tools",
+    "altair-inspire-complete"
+  ],
+  "site": "toolix.me"
+}
